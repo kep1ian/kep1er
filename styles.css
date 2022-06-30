@@ -45,9 +45,70 @@ body {
 
 .brand {
     border-style: solid;
+    font-size: xx-large;
+    margin-right: 50px;
 }
 
 .container2 {
     margin-left: 50px;
     color: #8a8a8a;
+    margin-bottom: 50px;
+}
+
+.profiles {
+    height: 350px;
+    width: auto;
+    margin-left: 50px;
+}
+
+.seoyeon {
+    height: 350px;
+    width: auto;
+    margin-left: 50px;
+}
+
+.seoyeon:hover {
+    border-bottom: 6px solid gray;
+    height: 400px;
+    width: auto;
+    transition: 0.5s;
+}
+
+.hyerin {
+    height: 350px;
+    width: auto;
+    margin-left: 50px;
+}
+
+.hyerin:hover {
+    border-bottom: 6px solid gray;
+    height: 400px;
+    width: auto;
+    transition: 0.5s;
+}
+
+.jiwoo {
+    height: 350px;
+    width: auto;
+    margin-left: 50px;
+}
+
+.jiwoo:hover {
+    border-bottom: 6px solid gray;
+    height: 400px;
+    width: auto;
+    transition: 0.5s;
+}
+
+.chaeyeon {
+    height: 350px;
+    width: auto;
+    margin-left: 50px;
+}
+
+.chaeyeon:hover {
+    border-bottom: 6px solid gray;
+    height: 400px;
+    width: auto;
+    transition: 0.5s;
 }
